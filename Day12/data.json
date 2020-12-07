@@ -1,0 +1,11 @@
+[
+    ["str", "Welcome to BestEnlist Python Bootcamp"],
+    ["int", 21],
+    ["float", 3.14],
+    ["complex", "5 + 7j"],
+    ["list", "[1, 2, 3, 4, 5]"],
+    ["tuple", "(3, 5)"],
+    ["dict", "{'Hello': 5, 'Hi': 2, 'Welcome': 7}"],
+    ["set", "{1, 2, 3, 4, 5}"],
+    ["bool", "true"]
+]
